@@ -75,19 +75,21 @@ java Main
 - Entrada de datos: Scanner.
 - Comparación de cadenas: compareTo().
 
-## Nombre del alumno
-Camila amor del angel cervantes 
-
-## Docente
-
-Víctor Hugo Vásquez Herrera.
-
-## Institución
-
-Instituto Tecnológico Superior de Xalapa.
 
 ## Conclusión
 
 Con este proyecto se aplicaron los conocimientos sobre árboles binarios de búsqueda y manejo de nodos. 
 Se logró implementar un sistema que permite administrar productos de manera dinámica, utilizando los nombres como llaves para mantener un orden alfabético. 
 Además, se comprendió cómo funcionan las operaciones de inserción, búsqueda, eliminación y recorrido dentro de un ABB.
+
+## Datos: 
+
+Camila amor del angel cervantes 
+
+Sistemas computacionales 3ro "B"
+
+Estructura de datos 
+
+Víctor Hugo Vásquez Herrera.
+
+Instituto Tecnológico Superior de Xalapa.
